@@ -1,3 +1,5 @@
 # Base
 
-Base knowledge, tutorials
+Base knowledge and tutorials for common libraries
+
+- NumPy
